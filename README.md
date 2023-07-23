@@ -11,8 +11,3 @@ This README would normally document whatever steps are necessary to get your app
 - npm install
 - npm run dev
 - baixar extensoes do prettier, tailwind e eslint para vscode
-
-### Who do I talk to?
-
-- Repo owner or admin
-- Other community or team contact
